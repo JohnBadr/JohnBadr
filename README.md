@@ -4,7 +4,7 @@
 - Software Lead for USF’s ACM chapter. Currently leading the software team for MeshUSF.
 - Interested in software and embedded systems engineering anywhere in the US. Based in Tampa, FL.
 
-## Tech stack
+## Some of my skills
 
 ![Languages](https://img.shields.io/badge/Languages-2E2E2E?style=flat)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
